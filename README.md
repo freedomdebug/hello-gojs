@@ -1,4 +1,4 @@
-# tc-flight-evaweb
+# hello-gojs
 
 ## Project setup
 ```
@@ -22,4 +22,3 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-https://github.com/wanzizi/vue-ts-antDesign-admin/blob/master/package.json
